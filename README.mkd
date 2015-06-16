@@ -1,0 +1,6 @@
+
+## helm-go-httpstatuses
+
+This is the source which shows HTTP status code and constant name of `net/http` library in golang.
+
+http://golang.org/pkg/net/http/#pkg-constants
